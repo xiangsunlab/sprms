@@ -12,6 +12,17 @@ The NYU Shanghai Summer Undergraduate Research Experience Program in Molecular S
 Copyright (c) 2021, Sungroup at NYU Shanghai
 
 
+### Welcome 
+
+Welcome aboard ! 
+
+First things first, fork this repository to your own github account.
+Start planning for your project, start developing , and have a fun research journey ahead !
+
+
+
+
+
 #### Acknowledgements
  
 Project based on the 
